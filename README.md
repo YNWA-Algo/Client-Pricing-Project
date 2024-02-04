@@ -3,7 +3,7 @@ Project summary - for my client base pricing mode
 
 Business Problem:
 
-Currently Company X (a real company but name is concealed per company request) charges its client a percentage of its portfolio size ($) measured in net asset value (NAV) to service and administer client accounts. This has been the pricing model for over 20 years.  Recently, Finance ops managers and Investment Managers started hypothesizing that the size of the NAV has little to do with the operational effort (cost to company X) required to service client portfolio. This project seeks to evaluate the hypothesis and either validate the current pricing model or recommend an alternative.
+Currently Company X (a real company but name is concealed per company request) charges its client a percentage-of-portfolio size ($) measured in net asset value (NAV) to service and administer client accounts. This has been the pricing model for over 20 years.  Recently, Finance ops managers and Investment Managers started hypothesizing that the size of the NAV has little to do with the operational effort (cost to company X) required to service client portfolio. This project seeks to evaluate the hypothesis and either validate the current pricing model or recommend an alternative.
 
 Results:
 
